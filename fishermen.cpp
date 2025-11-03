@@ -5,7 +5,7 @@ using namespace std;
 #define MAX 3 
 
 int fishspot[100]; // fishing spots 
-int gate[MAX]; // position of gates 
+int gate[MAX]; // position of gates .
 int fishermen[MAX]; // no of fishermen at each gate 
 int N; // total no of fishing spots 
 int visited[MAX]; // occupied fishing spots 
