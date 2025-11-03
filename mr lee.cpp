@@ -1,3 +1,4 @@
+********************************************************** START ******************************************************************************
 /*
 Mr. Lee has to travel various offices abroad to assist branches of each place. But he has a problem. 
 The airfare would be real high as all offices he has to visit are in foreign countries. He wants to visit every 
