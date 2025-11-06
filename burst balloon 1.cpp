@@ -1,3 +1,4 @@
+*************************************************************** START ******************************************************************
 /*
 There are n balloons and n bullets and each balloon is assigned with a particular number (point).
 Whenever a particular balloon is shot the no of points increases by
@@ -88,3 +89,4 @@ int main()
 5
 1 2 3 5 4
 */
+**************************************************************** DONE **********************************************************************
